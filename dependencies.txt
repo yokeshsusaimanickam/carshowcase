@@ -1,0 +1,14 @@
+to create next app without folder:
+npx create-next-app@latest ./
+typescript-yes
+eslint-no
+tailwindcss-yes
+src-no
+approuter-yes
+import alias-no
+
+to install headlesui
+npm install @headlessui/react
+
+to get api endpoint
+https://rapidapi.com/apininjas/api/cars-by-api-ninjas
